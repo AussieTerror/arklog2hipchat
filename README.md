@@ -7,3 +7,4 @@ HowTo Video on Creating Hipchat Authentication Token:
 Create a New Hipchat Instance: 
 <a href="https://www.hipchat.com/sign_up">https://www.hipchat.com/sign_up</a>
 
+![Screenshot](https://raw.github.com/AussieTerror/arklog2hipchat/master/arklog2hipchat.png)
